@@ -119,7 +119,7 @@ h4 {
 
 p {
   margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
+  color: var(--grey-500);
 }
 
 @media screen and (min-width: 800px) {
@@ -196,7 +196,7 @@ main {
 .container {
   width: 90vw;
   margin: 5rem auto;
-  background: var(--clr-white);
+  background: var(--white);
   border-radius: var(--radius);
   padding: 2.5rem 2rem;
   max-width: var(--fixed-width);
